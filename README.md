@@ -1,4 +1,4 @@
-## Theme for Seren & Auramod users
+## Theme for Seren & Artic Horizon 2 users
                   SmartPlay PopUp             
 ![nextup up popup](https://i.imgur.com/dsaUpuE.jpg)
 
@@ -13,9 +13,9 @@
 
 ##### Requirements
 * Seren - 2.x or greater
-* AuraMod - Latest Repo version or higher 
+* Artic Horizon 2 - Latest Repo version or higher 
 
-**This theme Has not been tested and won't be supported on any skin besides AuraMod , use at your on risk with other skins.**
+**This theme is a modified version of SerenTheme-SerenMod-Full, use at your on risk with other skins.**
 
 *The text color for this theme is controlled by Serens  Settings called "Select Text Highlight Color..." Found in Seren Settings > Interface*
 
