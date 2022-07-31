@@ -25,11 +25,8 @@
 
 `Seren -> Tools > Open Settings Menu -> Theme Manager -> Interface > (themes section) Install Theme -> Web Location`
 
-And enter one of the following URL:
-http://bit.ly/serenmodfull
-or
-
-https://www.github.com/SerpentDrago/SerenTheme-SerenMod-Full/zipball/master/
+And enter the following URL:
+https://goldenfreddy0703.github.io/seren.theme.ah2
 
 ------------
 
