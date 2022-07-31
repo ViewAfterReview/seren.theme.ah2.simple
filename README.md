@@ -26,7 +26,7 @@
 `Seren -> Tools > Open Settings Menu -> Theme Manager -> Interface > (themes section) Install Theme -> Web Location`
 
 And enter the following URL:
-https://goldenfreddy0703.github.io/seren.theme.ah2
+https://www.github.com/goldenfreddy0703/seren.theme.ah2/zipball/master/
 
 ------------
 
