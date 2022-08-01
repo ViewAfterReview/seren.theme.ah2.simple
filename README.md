@@ -1,6 +1,6 @@
 ## Theme for Seren & Artic Horizon 2 users
                   SmartPlay PopUp             
-![nextup up popup](https://i.imgur.com/dsaUpuE.jpg)
+![nextup up popup](https://user-images.githubusercontent.com/62456796/182050560-5453ae2a-969e-441b-a21a-0f5fe4400c51.png)
 
 |                   Scraping                   |                   Source Select                   |
 |:--------------------------------------------:|:-------------------------------------------------:|
