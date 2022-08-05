@@ -40,7 +40,7 @@ You can also download the `.zip` file directly from the same URL, and install it
 
 
 
-*The creator of this theme is not affiliated with Seren, Arctic Horizon 2, or Kodi.*
+*The creator of this theme is not affiliated with Seren, Artic Horizon 2, or Kodi.*
 
 *All Credit goes to Drinfernoo and SerpentDrago for helping me make this possible also with the help of Jurialmunkey and his Ah2 Skin.*
 
