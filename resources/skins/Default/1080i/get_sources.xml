@@ -305,8 +305,7 @@
 			<width>1920</width>
 
 			<control type="textbox">
-				<visible>String.IsEqual(Window().Property(process_started),true) +
-					!String.IsEmpty(Window().Property(item.info.plot))</visible>
+				<visible>!String.IsEmpty(Window().Property(item.info.plot))</visible>
 				<animation effect="fade" time="350"
 					condition="String.IsEqual(Window().Property(process_started),true) + !String.IsEmpty(Window().Property(item.art.clearlogo))">
 					Conditional</animation>
